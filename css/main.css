@@ -1,8 +1,11 @@
 
 /* =================================== */
-/*	Basic Style 
+{
+//css}Style 
 /* =================================== */
-
+@media(min-width:320px)
+	and(max-width:480px){
+//css}
 body {
     background-color: #fff;
     font-family: 'Open Sans', sans-serif;
